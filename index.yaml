@@ -18,7 +18,7 @@ entries:
           url: https://www.jenkins.io/
     apiVersion: v2
     appVersion: 2.361.1
-    created: "2022-09-22T22:40:49.950437011Z"
+    created: "2022-09-22T22:45:18.970872494Z"
     description: Jenkins - Build great things at any scale! The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
     digest: 3cdb2f4047ef149b3d02f8a539c357794851111477033f0098073002a909743d
     home: https://jenkins.io/
@@ -41,6 +41,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - https://github.com/opeomotayo/jenkins-helm-chart/jenkins-4.2.4.tgz
+    - git@github.com:opeomotayo/jenkins-helm-chart/jenkins-4.2.4.tgz
     version: 4.2.4
-generated: "2022-09-22T22:40:49.944823888Z"
+generated: "2022-09-22T22:45:18.964812558Z"
